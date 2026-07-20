@@ -24,7 +24,7 @@
                     <a class="nav-link active" aria-current="page" href="/">หน้าแรก</a>
                     <a class="nav-link" href="/about2">เกี่ยวกับเรา</a>
                     <a class="nav-link" href="/blog2">บทความ</a>
-                    <a class="nav-link" href="/create">เขียนบทความใหม่</a>
+                    <a class="nav-link" href="/form">แจ้งเคลมสินค้าชำรุด</a>
                 </div>
             </ul>
         </div>
