@@ -3,13 +3,12 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
+use App\Models\Blog;
 
-class DatabaseSeeder extends Seeder
+class BlogSeeder extends Seeder
 {
     public function run(): void
     {
-        $this->call([
-            BlogSeeder::class,
-        ]);
+        Blog::factory()->count(100)->create();
     }
 }
